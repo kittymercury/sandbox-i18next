@@ -1,0 +1,6 @@
+{
+  "greeting": "Hello, English",
+  "choose_language": "Choose language:",
+  "date": "Today is {{date, date(day: numeric; month: short; year: numeric)}}",
+  "bananas_amount": "I've eaten {{count, number}} banana",
+}

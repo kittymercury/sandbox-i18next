@@ -1,0 +1,6 @@
+{
+  "greeting": "Русскость и Руссковство",
+  "choose_language": "Выберите язык:",
+  "date": "Сегодня {{date, date(day: numeric; month: short; year: numeric)}}",
+  "bananas_amount": "Съела {{count, number}} банан",
+}
